@@ -11,8 +11,8 @@ AI AyurDost is a chatbot powered by LangChain, FAISS, and HuggingFace models. It
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ai-ayurdost.git
-   cd ai-ayurdost
+   git clone https://github.com/MrPrinceHz/AI-AyurDost-An-RAG-based-AI-Agent-for-Ayurvedic-health-assistance.
+   cd AI-AyurDost-An-RAG-based-AI-Agent-for-Ayurvedic-health-assistance
    ```
 
 2. Install dependencies:
