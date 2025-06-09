@@ -72,7 +72,7 @@ def main():
         Start the answer directly, without small talk.
         """
 
-        HUGGINGFACE_REPO_ID = "HuggingFaceH4/zephyr-7b-beta"
+        HUGGINGFACE_REPO_ID = "mistralai/Mistral-7B-Instruct-v0.2"
 
         HF_TOKEN = os.environ.get("HF_TOKEN")
 
